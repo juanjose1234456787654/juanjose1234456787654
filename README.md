@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&height=80&lines=Juan+José+Carvajal+Jaya" alt="Name" />
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=6B7280&center=true&vCenter=true&width=600&height=40&lines=Computer+Engineering+Student+%7C+Web+Developer+in+Training" alt="Title" />
 
